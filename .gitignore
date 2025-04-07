@@ -1,0 +1,30 @@
+# Ignorar arquivos de build C
+*.exe
+*.out
+*.o
+
+# Ignorar pastas comuns do VSCode e sistema
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+
+# Ignorar pastas de backup ou testes
+build/
+debug/
+
+# Ignorar configurações do VSCode
+.vscode/
+
+# Ignorar arquivos de build
+*.exe
+
+# Ignorar pastas de testes/exercícios locais
+exercicio/
+olaMundo/
+
+# Ignorar scripts locais
+rodas.sh
